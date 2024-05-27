@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "echo 'todo'",
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview"
