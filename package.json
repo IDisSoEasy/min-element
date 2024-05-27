@@ -8,7 +8,7 @@
     "dev": "pnpm --filter @min-element/play dev",
     "docs:dev": "pnpm --filter @min-element/docs dev",
     "docs:build": "pnpm --filter @min-element/docs build",
-    "docs:preview": "pnpm --filter @min-element/docs preview"
+    "build": "pnpm --filter @min-element/docs build"
   },
   "keywords": [],
   "author": "",
